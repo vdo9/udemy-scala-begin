@@ -65,6 +65,6 @@ object Expressions extends App {
   val someOtherValue = {
     if(someValue) 239 else 986
     42
-  } // 239
+  } // 42
 
 }
